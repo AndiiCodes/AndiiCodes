@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AndiiCodes🚀</h1>
-<h3 align="center">Passionate frontend developer 🚀 Based in Turkey 🇹🇷 </h3>
-<h4> I specialize in JavaScript and ReactJS, and I'm always looking to learn more about the latest web development trends and technologies. When I'm not coding, you can find me exploring the beautiful landscapes of Turkey and indulging in its rich culture and cuisine. Let's connect and create something amazing together! 👋</h2>
+<h3 align="center">Passionate frontend developer 🚀 Based in Australia 🐨🇦🇺🦘 </h3>
+<h4> I specialize in JavaScript and ReactJS, and I'm always looking to learn more about the latest web development trends and technologies. Let's connect and create something amazing together! 👋</h2>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=andiicodes&label=Profile%20views&color=0e75b6&style=flat" alt="andiicodes" /> </p>
 
