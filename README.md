@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=andiicodes)
+
 <h1 align="center">Hi 👋, I'm AndiiCodes🚀</h1>
 <h3 align="center">Passionate frontend developer 🚀 Based in Australia 🐨🇦🇺🦘 </h3>
 <h4> I specialize in JavaScript and ReactJS, and I'm always looking to learn more about the latest web development trends and technologies. Let's connect and create something amazing together! 👋</h2>
@@ -8,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/andiicodes" target="blank"><img src="https://img.shields.io/twitter/follow/andiicodes?logo=twitter&style=for-the-badge" alt="andiicodes" /></a> </p>
 
-- 🌱 I’m currently learning **React , JS Frameworks.**
+- 🌱 I’m currently learning **React , JS Frameworks , Flask , Python!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,4 +47,3 @@ CISCO Certificates:
   -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andiicodes&" alt="andiicodes" /></p>
 
-![](https://komarev.com/ghpvc/?username=andiicodes)
