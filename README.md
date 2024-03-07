@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Andiicodes&color=red&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Andiicodes&color=red)
 
 <h1 align="center">Hi 👋, I'm AndiiCodes🚀</h1>
 <h3 align="center">Passionate frontend developer 🚀 Based in Australia 🐨🇦🇺🦘 </h3>
