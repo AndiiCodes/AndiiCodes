@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Andiicodes&color=red)
-
+![](https://komarev.com/ghpvc/?username=Andiicodes&color=red) ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 <h1 align="center">Hi 👋, I'm AndiiCodes🚀</h1>
 <h3 align="center">Passionate frontend developer 🚀 Based in Australia 🐨🇦🇺🦘 </h3>
 <h4> I specialize in JavaScript and ReactJS, and I'm always looking to learn more about the latest web development trends and technologies. Let's connect and create something amazing together! 👋</h2>
