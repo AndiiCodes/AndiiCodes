@@ -38,7 +38,8 @@ CISCO Certificates:
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/andiicodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andiicodes" /></a></p><br><br>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Andiicodes)
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andiicodes&show_icons=true&locale=en&layout=compact" alt="andiicodes" /></p>
 
