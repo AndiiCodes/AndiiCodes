@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Andiicodes&color=red) ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 <h1 align="center">Hi 👋, I'm AndiiCodes🚀</h1>
-<h3 align="center">Passionate frontend developer 🚀 </h3>
+<h3 align="center">Passionate frontend developer ![image](https://github.com/AndiiCodes/AndiiCodes/assets/116770908/204228e6-f4b4-46d3-8537-cd1dc8d85558)
+ </h3>
 <h4> I specialize in JavaScript and ReactJS, and I'm always looking to learn more about the latest web development trends and technologies. Let's connect and create something amazing together! 👋</h2>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=andiicodes&label=Profile%20views&color=0e75b6&style=flat" alt="andiicodes" /> </p>
