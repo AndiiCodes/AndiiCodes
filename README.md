@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Andiicodes&color=red) ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99) [![committers.top badge](https://user-badge.committers.top/australia/AndiiCodes.svg)](https://user-badge.committers.top/australia/AndiiCodes)
+![](https://komarev.com/ghpvc/?username=Andiicodes&color=red) ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99) [![committers.top badge](https://user-badge.committers.top/australia/AndiiCodes.svg)](https://user-badge.committers.top/australia/AndiiCodes) [![wakatime](https://wakatime.com/badge/user/16b81a58-226f-4e81-8432-0880b61d8636.svg)](https://wakatime.com/@16b81a58-226f-4e81-8432-0880b61d8636)
 
 <a href="https://github.com/devxb/gitanimals/">
   <img src="https://render.gitanimals.org/lines/andiicodes?pet-id=574806702064997855" height="120" width="600" align=right/>
