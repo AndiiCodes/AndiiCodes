@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=Andiicodes&color=red) ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99) [![committers.top badge](https://user-badge.committers.top/australia/AndiiCodes.svg)](https://user-badge.committers.top/australia/AndiiCodes) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwakatime-api-1.onrender.com%2F&query=%24.data.categories%5B0%5D.text&style=plastic&label=JS%20Hours%20Consumed%2C%20Logic%20Confused&color=orange&cacheSeconds=3600)
+![](https://komarev.com/ghpvc/?username=Andiicodes&color=red) ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99) [![committers.top badge](https://user-badge.committers.top/australia/AndiiCodes.svg)](https://user-badge.committers.top/australia/AndiiCodes) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwakatime-api-production.up.railway.app%2F&query=%24.data.categories%5B%3A1%5D.text&style=plastic&label=%F0%9F%98%A2JS%20time%20Invested%2C%20Patience%20Tested%20%F0%9F%98%A2&color=orange)
+
+
 
 
 <a href="https://github.com/devxb/gitanimals/">
