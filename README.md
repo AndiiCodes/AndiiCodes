@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=Andiicodes&color=red) ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99) [![committers.top badge](https://user-badge.committers.top/australia/AndiiCodes.svg)](https://user-badge.committers.top/australia/AndiiCodes)   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwakatime-api-production.up.railway.app%2F&query=data.categories%5B0%5D.text&style=plastic&logo=javascript&logoColor=%23e1ad01&label=JS%20Grind%20Time&color=%23e1ad01&link=https%3A%2F%2Fandiicodes.me) 
+![](https://komarev.com/ghpvc/?username=Andiicodes&color=red) ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99) [![committers.top badge](https://user-badge.committers.top/australia/AndiiCodes.svg)](https://user-badge.committers.top/australia/AndiiCodes)   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwakatime-api-production.up.railway.app%2F&query=%24.data.message&style=plastic&logo=javascript&label=JS%20grind%20time%20%3AD&color=yellow)
+
 
 
 
