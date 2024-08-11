@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm AndiiCodes🚀</h1>
 <h3 align="center">Passionate frontend developer:)
  </h3>
-<h4> I specialize in JavaScript and ReactJS, and I'm always looking to learn more about the latest web development trends and technologies. Let's connect and create something amazing together! 👋</h2>
+<h4> I specialize in JavaScript and ReactJS, and I'm always looking to learn more about the latest web development trends and technologies. Let's connect and create something amazing together! 👋</h4>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=andiicodes&label=Profile%20views&color=0e75b6&style=flat" alt="andiicodes" /> </p>
 
@@ -19,7 +19,7 @@
 
 
 
-- 🌱 I'm currently learning Cloud Computing.. specifically focusing on AWS! :) **
+- 🌱 I'm currently learning **Cloud Computing.. specifically focusing on AWS! :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
