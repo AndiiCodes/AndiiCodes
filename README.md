@@ -19,7 +19,7 @@
 
 
 
-- 🌱 I’m currently learning **React , JS Frameworks , Flask , Python!**
+- 🌱 I'm currently learning Cloud Computing.. specifically focusing on AWS! :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
